@@ -27,4 +27,4 @@ jobs:
       - run: git config --local user.email "yorai.email@gmail.com"
       - run: git config --local user.name "github-actions[bot]"
       - run: npm ci
-      - run: npm run build --if-present
+      - run: npm run deploy --if-present
