@@ -1,3 +1,7 @@
+https://www.reddit.com/r/tailwindcss/comments/st71fc/is_there_a_market_for_tailwind_css_templates/
+
+https://www.google.com/search?q=tailwind+css+templates+reddit&sca_esv=595201269&sxsrf=AM9HkKl2jCdEJI1QnHFQccQ_uavM2JLRIw%3A1704235988862&ei=1JOUZZScNJmWxc8P_MS_2As&oq=tailwind+css+templates+redd&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3RhaWx3aW5kIGNzcyB0ZW1wbGF0ZXMgcmVkZCoCCAAyBxAhGKABGAoyBxAhGKABGAoyCBAhGBYYHhgdSJVuUNNHWJFocAN4AZABAJgBtwGgAfMHqgEDMC42uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAgUQIRigAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
